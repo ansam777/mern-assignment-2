@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  background-color: #f4f7fb;
+  font-family: Arial, sans-serif;
+  color: #212529;
+}
+
+.navbar {
+  padding: 14px 0;
+}
+
+.navbar .nav-link {
+  margin-left: 12px;
+}
+
+.navbar .nav-link.active {
+  color: #ffffff;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.card-header {
+  border-radius: 10px 10px 0 0 !important;
+}
+
+.table th,
+.table td {
+  padding: 14px;
+}
+
+.form-control {
+  padding: 10px 12px;
+}
+
+.btn {
+  padding: 10px 16px;
+}
